@@ -1,7 +1,3 @@
-I’m a user experience and interface designer (UX/UI), 
-currently designing web experiences at LogMeIn.
+I’m a user experience and interface designer (UX/UI), currently designing at CVS Health.
 
-In the past, I was a designer at Cantina. Before that, 
-I was a web developer for Cambridge Systematics, coding 
-new features, and pages for their Drupal-based corporate 
-website.
+I recently designed web experiences at LogMeIn. Before that, I learned from the best in the industry as a designer at Cantina. I also wrote my fair share of code as a web developer for Cambridge Systematics.
